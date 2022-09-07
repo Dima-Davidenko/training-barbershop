@@ -60,5 +60,8 @@
 <symbol id="icon-line" viewBox="0 0 1 60">
 <rect width="1" height="60" />
 </symbol>
+<symbol id="icon-line-hor" viewBox="0 0 60 1">
+<rect width="60" height="1" />
+</symbol>
 </defs>
 </svg>
